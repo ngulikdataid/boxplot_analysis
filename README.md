@@ -15,3 +15,12 @@ Project ini digunakan untuk analisis data transmitter menggunakan metode visuali
 ---
 
 ## 📂 Project Structure
+boxplot_analysis/
+│
+├── boxploy.analisis.py
+├── metering_nec_20kw - cleaned.csv
+├── summary_statistics.csv
+├── transmitter_status_output.csv
+├── boxplot_all_features.png
+│
+└── boxplot_per_feature/
